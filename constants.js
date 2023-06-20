@@ -1,0 +1,2 @@
+export const MIN_CLICKED_ITEMS_COUNT = 2
+export const MAX_CLICKED_ITEMS_COUNT = 2

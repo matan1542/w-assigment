@@ -1,0 +1,17 @@
+
+.btnsContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    >*{
+        margin: 5px;
+    }
+}
+
+.selectedOneBtn{
+    background-color: blue;
+}
+
+.wrongChoice{
+    background-color: red;
+}
